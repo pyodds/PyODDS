@@ -8,6 +8,6 @@ def read():
 
     d['ts']=pd.to_datetime(d['ts'])
     d = d.set_index(d['ts'])
-    newd=d.loc['2019-10-01 00:00:00':'2019-12-01 00:00:00']
+    _=d.iloc[200:500]
 read()
 print('Total inserting cost: %.6f s' % (time.clock() - current_time))
