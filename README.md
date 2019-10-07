@@ -1,5 +1,4 @@
 # PyODDS
-[![Inline docs](http://inch-ci.org/github/dwyl/hapi-auth-jwt2.svg?branch=master)](http://inch-ci.org/github/dwyl/hapi-auth-jwt2)
 
 **PyODDS** is an end-to end **Python** system for **outlier** **detection** with **database** **support**. PyODDS provides outlier detection algorithms which meet the demands for users in different fields, w/wo data science or machine learning background. PyODDS gives the ability to execute machine learning algorithms in-database without moving data out of the database server or over the network. It also provides access to a wide range of outlier detection algorithms, including statistical analysis and more recent deep learning based approaches.
 
